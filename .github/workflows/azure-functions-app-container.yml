@@ -1,3 +1,4 @@
+#####
 name: Deploy container to Azure Functions App
 
 on:
