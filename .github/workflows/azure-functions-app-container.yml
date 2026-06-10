@@ -9,7 +9,7 @@ permissions:
   contents: read
 
 env:
-  AZURE_FUNCTIONAPP_NAME: pythonapp-azure-function
+  AZURE_FUNCTIONAPP_NAME: pythonapp-usecase302-azure-function
   PYTHON_VERSION: 3.11
   IMAGE_NAME: azure-python-function-app
   IMAGE_TAG: latest
